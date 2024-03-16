@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/TrakHub/static/css/main.a662a80b.css",
+    "main.js": "/TrakHub/static/js/main.6eb569e2.js",
+    "static/js/453.ea4b6916.chunk.js": "/TrakHub/static/js/453.ea4b6916.chunk.js",
+    "static/media/avatar.svg": "/TrakHub/static/media/avatar.67b37c277ad7edd4161c179c3f37dce1.svg",
+    "static/media/logo.svg": "/TrakHub/static/media/logo.fd8163c7ed49008b0850cdc02ed4f938.svg",
+    "index.html": "/TrakHub/index.html",
+    "main.a662a80b.css.map": "/TrakHub/static/css/main.a662a80b.css.map",
+    "main.6eb569e2.js.map": "/TrakHub/static/js/main.6eb569e2.js.map",
+    "453.ea4b6916.chunk.js.map": "/TrakHub/static/js/453.ea4b6916.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a662a80b.css",
+    "static/js/main.6eb569e2.js"
+  ]
+}
